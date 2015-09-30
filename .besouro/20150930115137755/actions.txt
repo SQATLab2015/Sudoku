@@ -2,3 +2,7 @@ FileOpenedAction 1443603101760 SudokuVerifier.java 75 1 0 0
 EditAction 1443603121425 SudokuVerifier.java 116 1 1 0
 RefactoringAction 1443603133972 SudokuVerifier.java RENAME verify()=>int verify(String) METHOD
 EditAction 1443603167403 SudokuVerifier.java 189 1 1 0
+RefactoringAction 1443603212994 TestSudokuVerifier.java ADD void test() METHOD
+RefactoringAction 1443603213121 TestSudokuVerifier.java ADD import org.junit.Assert.* IMPORT
+RefactoringAction 1443603213283 TestSudokuVerifier.java ADD TestSudokuVerifier.java CLASS
+FileOpenedAction 1443603215695 TestSudokuVerifier.java 202 1 1 0
